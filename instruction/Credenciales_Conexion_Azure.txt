@@ -1,2 +1,0 @@
-Las instrucciones de conexión y la access key fueron enviadas por correo electrónico el día 23/02/2026 a las 10:34, desde el usuario riguelruiz@gmail.com, en un email con asunto “Credenciales de conexión a Azure – TFM Riguel De La Plata”, a los siguientes destinatarios: cof@qualityexcellence.es y santiago.mota@gmail.com
-En caso de ser necesario reproducir el proyecto desde cero, se puede consultar dicho correo para recuperar los datos de acceso.
